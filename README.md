@@ -43,7 +43,7 @@ Digitando `/shop` sem argumentos próximo a um ponto, o jogo exibe a lista de co
 
 ## 📦 Dependências
 
-- [vRP](https://github.com/myzticgohan/vrp) (framework base — `Tunnel` e `Proxy`)
+- [vRP](https://github.com/vRP-framework/vRP) (framework base — `Tunnel` e `Proxy`)
 - Banco de dados MySQL/MariaDB (via `mysql-async` ou equivalente usado pelo vRP)
 
 ## 🛠️ Instalação
